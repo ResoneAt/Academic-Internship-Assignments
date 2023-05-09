@@ -46,7 +46,7 @@ def div(a: str, b: str) -> float | str:
 
     except ZeroDivisionError:
         return math.inf
-        # or we can : return complex(float('inf'), float('inf'))
+        #return complex(float('inf'), float('inf'))
 
     except ValueError:
         return 'check your input,You have ValueError. Please fix it ( enter a correct number! ) and try again'

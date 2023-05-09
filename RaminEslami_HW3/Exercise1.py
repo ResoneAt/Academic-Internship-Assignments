@@ -9,21 +9,21 @@ numbers_of_one_to_twenty = {
 }
 
 
-def replace_dicti(text):
+def replace_dicti(text: str) -> str:
     """use dictionary for replace item"""
     for letter, number in numbers_of_one_to_twenty.items():
         text = text.replace(letter, number)
     return text
 
 
-def create_newfile(filename, content):
+def create_newfile(filename: str, content: str):
     """Creating the desired file using the received filename and your content"""
     with open(f'new_{filename}', mode='w') as new_file:
         new_file.write(content)
     return None
 
 
-def replace_number(filename):
+def replace_number(filename: str):
     """
     This function is supposed to receive the zen.txt and create a new file in the output
     and replace the equivalent of English numbers from 1 to 20,
