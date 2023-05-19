@@ -1,0 +1,26 @@
+{
+    "ramin": {
+        "id": "8db07833-a0ae-46f7-a7f9-e1f512cfabc0",
+        "username": "ramin",
+        "phone_number": "09388082273",
+        "_User__password": "fa3cfb3f1bb823aa9501f88f1f95f732ee6fef2c3a48be7f1d38037b216a549f"
+    },
+    "parya": {
+        "id": "0ca840e6-f496-447d-b11e-216490a3d797",
+        "username": "parya",
+        "phone_number": "091244444444",
+        "_User__password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4"
+    },
+    "ramin2": {
+        "id": "9cc4e96f-935f-4e77-b308-8834ca3d7d9d",
+        "username": "ramin2",
+        "phone_number": "",
+        "_User__password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4"
+    },
+    "mahsa": {
+        "id": "c1b1fce3-f226-4fc1-8162-8276da6b1ffe",
+        "username": "mahsa",
+        "phone_number": "0988888888888",
+        "_User__password": "a1fb4e703a9ef1fa4936801721ff285a97ac85330856674412e054892afe6972"
+    }
+}
