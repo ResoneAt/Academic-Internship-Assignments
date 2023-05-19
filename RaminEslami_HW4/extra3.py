@@ -2,6 +2,10 @@ import json
 
 
 def get_database() -> dict:
+    """
+    gets database content
+    :return: dictionary of user accounts
+    """
     try:
         with open("database.json", "r") as fp:
             # Load the dictionary from the file
@@ -11,6 +15,11 @@ def get_database() -> dict:
 
 
 def save(user: dict) -> None:
+    """
+    save object in database
+    :param user: user object
+    :return: None
+    """
     dic = get_database()
     username = user['username']
     dic.update({username: user})
@@ -22,6 +31,11 @@ def save(user: dict) -> None:
 
 
 def delete(username:str) -> None:
+    """
+    delete user object from database
+    :param username: username of user account
+    :return: None
+    """
     dic = get_database()
     del dic[username]
     try:
@@ -32,6 +46,11 @@ def delete(username:str) -> None:
 
 
 def get_object(username:str) -> dict | None:
+    """
+    get object from database
+    :param username: username
+    :return: user object
+    """
     try:
         with open("database.json", "r") as fp:
             # Load the dictionary from the file
