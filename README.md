@@ -26,18 +26,15 @@ To run this project, you need to have the following installed on your system:
 
 ### Installation
 
-    Install Python 3.x on your system if it is not already installed. You can download it from the official website.
-    Install the required packages by running the following command in your terminal or command prompt:
-    basic
-
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 This command will install all the necessary packages, including `jdatetime` and `pwinput`, based on the version specified in the `requirements.txt` file.
 
 If you prefer to install the packages individually, you can do so by running the following commands:
 
-pip install jdatetime
-pip install pwinput
+    pip install jdatetime
+    
+    pip install pwinput
 
 Once you have installed the required packages, you can run the project without any issues.
 
