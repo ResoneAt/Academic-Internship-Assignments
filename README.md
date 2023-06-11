@@ -1,6 +1,6 @@
-# Project Name
+# Daneshkar Home Work
 
-A brief description of the project.
+This repository is for my Home Work in Python/Django bootcamp at Daneshkar Academy.
 
 ## Table of Contents
 
