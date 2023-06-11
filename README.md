@@ -4,16 +4,11 @@ This repository is for my Home Work in Python/Django bootcamp at Daneshkar Acade
 
 ## Table of Contents
 
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
 - [Acknowledgements](#acknowledgements)
 
-## Getting Started
-
-This section should provide instructions on how to get started with the project. It should include any prerequisites that need to be installed, as well as instructions on how to install the project.
-
-### Prerequisites
+## Prerequisites
 
 To run this project, you need to have the following installed on your system:
 
@@ -21,7 +16,7 @@ To run this project, you need to have the following installed on your system:
 `jdatetime`
 `pwinput`
 
-### Installation
+## Installation
 
     pip install -r requirements.txt
 
