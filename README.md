@@ -31,7 +31,7 @@ Installation
     basic
 
 pip install -r requirements.txt
-```
+
 This command will install all the necessary packages, including `jdatetime` and `pwinput`, based on the version specified in the `requirements.txt` file.
 
 If you prefer to install the packages individually, you can do so by running the following commands:
