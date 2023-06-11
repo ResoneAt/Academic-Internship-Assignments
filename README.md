@@ -37,18 +37,6 @@ If you prefer to install the packages individually, you can do so by running the
 
 Once you have installed the required packages, you can run the project without any issues.
 
-## Usage
-
-This section should provide information on how to use the project, including examples of how to use any command-line tools or web interfaces.
-
-## Contributing
-
-Provide information on how to contribute to the project, including guidelines for submitting pull requests and reporting bugs.
-
-## License
-
-This project is licensed under the [LICENSE NAME HERE] license - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Acknowledgements
 
 This section should acknowledge any individuals or organizations that contributed to the project, including any libraries or frameworks used.
