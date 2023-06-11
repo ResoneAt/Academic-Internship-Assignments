@@ -6,7 +6,6 @@ This repository is for my Home Work in Python/Django bootcamp at Daneshkar Acade
 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Acknowledgements](#acknowledgements)
 
 ## Prerequisites
 
@@ -29,6 +28,3 @@ If you prefer to install the packages individually, you can do so by running the
 
 Once you have installed the required packages, you can run the project without any issues.
 
-## Acknowledgements
-
-This section should acknowledge any individuals or organizations that contributed to the project, including any libraries or frameworks used.
