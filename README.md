@@ -41,10 +41,6 @@ pip install pwinput
 
 Once you have installed the required packages, you can run the project without any issues.
 
-### Installation
-
-Provide step-by-step instructions on how to install the project.
-
 ## Usage
 
 This section should provide information on how to use the project, including examples of how to use any command-line tools or web interfaces.
