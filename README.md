@@ -24,7 +24,7 @@ To run this project, you need to have the following installed on your system:
     jdatetime
     pwinput
 
-Installation
+### Installation
 
     Install Python 3.x on your system if it is not already installed. You can download it from the official website.
     Install the required packages by running the following command in your terminal or command prompt:
