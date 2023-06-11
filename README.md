@@ -38,12 +38,9 @@ If you prefer to install the packages individually, you can do so by running the
 
 pip install jdatetime
 pip install pwinput
-perl
-
-
-    Note that you may need to use `pip3` instead of `pip` if you have both Python 2 and [Python 3](poe://www.poe.com/_api/key_phrase?phrase=Python%203&prompt=Tell%20me%20more%20about%20Python%203.) installed on your system.
 
 Once you have installed the required packages, you can run the project without any issues.
+
 ### Installation
 
 Provide step-by-step instructions on how to install the project.
