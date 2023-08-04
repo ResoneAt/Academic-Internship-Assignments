@@ -1,4 +1,4 @@
-# Daneshkar Home Work
+# Academic-Internship-Assignments
 
 This repository is for my Home Work in Python/Django bootcamp at Daneshkar Academy.
 
